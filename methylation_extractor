@@ -1,0 +1,1 @@
+./bismark_methylation_extractor -p --no_overlap --gzip --report --multicore 20 --bedGraph --scaffolds -o ./extraction_report B2026C_L2_1_val_1_bismark_bt2_pe.bam 
